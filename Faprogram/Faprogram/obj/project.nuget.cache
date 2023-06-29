@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CMfjm1OhmfsHATMKDn3tNAwnWC6WfAFTDNm6HcrzaAS4F+w6ImqmvnMmFQhg/XOSuQCAXXWoUUGsKoSlwcDh3Q==",
+  "success": true,
+  "projectFilePath": "F:\\Faprogram\\Faprogram\\Faprogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin.by\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512",
+    "C:\\Users\\admin.by\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin.by\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin.by\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin.by\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.17\\microsoft.netcore.app.host.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
